@@ -1,2 +1,2 @@
-# Student's_Database.c
-My projects
+# My projects
+1. Student's_Database using C
